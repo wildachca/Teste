@@ -1,0 +1,24 @@
+h1{
+    background-color: aqua;
+    font-family: Molle;
+    font-weight: 400;
+    text-align: center;
+}
+
+p{
+    background-color: rgb(40, 11, 167);
+}
+#Primeiroparagrafo{
+    background-color: blueviolet;
+}
+.paragrafo{
+    background-color: rgb(190, 22, 182);
+}
+
+p[draggable="true"]{
+    background-color: rgb(75, 43, 78);
+}
+
+p[draggable="false"]{
+    background-color: rgb(100, 48, 116);
+}
